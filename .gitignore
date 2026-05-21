@@ -1,0 +1,5 @@
+data/
+*__*
+*/__pycache__/
+*wget-log
+ckpts/

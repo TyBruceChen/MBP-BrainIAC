@@ -173,7 +173,7 @@ def main(temp_img, input_dir, output_dir):
     os.makedirs(temp_reg_dir, exist_ok=True)
     
     print("Starting brain MRI preprocessing...")
-    
+    print(os.listdir(input_dir))
     # REgistration
     print("\nStep 1: Image Registration")
     success = registration(
