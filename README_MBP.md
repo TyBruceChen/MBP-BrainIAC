@@ -17,7 +17,7 @@ python src/utils/generate_brainiac_csv.py data/processed/temp_registered/ data/g
 
 ## Result
 
-Results are put in [src/notes_book](src/notes_book) folder/repo.
+Results are put in [src/notebooks](src/notebooks) folder/repo.
 - features.csv: raw features extracted from BrainIAC ViT
 - features_pca.csv: merged features from PCA (PC1 - PC10)
 - pca_lr_knn_kmeans_opticalflow.ipynb: LR, KNN, K-means used to fitting / clustering the data, and generate optical flow visualization
