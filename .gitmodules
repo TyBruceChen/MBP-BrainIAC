@@ -1,0 +1,3 @@
+[submodule "src/notebooks"]
+	path = src/notebooks
+	url = https://github.com/TyBruceChen/MBP-BrainIAC-Feature-Analysis
